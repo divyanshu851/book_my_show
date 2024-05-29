@@ -1,4 +1,4 @@
-package com.example.bookmyshow2.sevice;
+package com.example.bookmyshow2.service;
 
 import com.example.bookmyshow2.model.Auditorium;
 import com.example.bookmyshow2.model.City;
@@ -8,11 +8,9 @@ import com.example.bookmyshow2.model.constant.AuditoriumFeature;
 import com.example.bookmyshow2.model.constant.SeatStatus;
 import com.example.bookmyshow2.model.constant.SeatType;
 import com.example.bookmyshow2.repository.*;
-import org.hibernate.annotations.ColumnDefault;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.util.ArrayList;
 import java.util.List;
 
 @Service

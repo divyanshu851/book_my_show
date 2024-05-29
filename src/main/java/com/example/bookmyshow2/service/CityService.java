@@ -1,4 +1,4 @@
-package com.example.bookmyshow2.sevice;
+package com.example.bookmyshow2.service;
 
 import com.example.bookmyshow2.model.City;
 import com.example.bookmyshow2.repository.CityRepository;

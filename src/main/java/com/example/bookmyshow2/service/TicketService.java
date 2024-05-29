@@ -1,4 +1,4 @@
-package com.example.bookmyshow2.sevice;
+package com.example.bookmyshow2.service;
 
 import com.example.bookmyshow2.model.ShowSeat;
 import com.example.bookmyshow2.model.Ticket;

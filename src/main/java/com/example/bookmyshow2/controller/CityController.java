@@ -2,7 +2,7 @@ package com.example.bookmyshow2.controller;
 
 import com.example.bookmyshow2.dto.CityRequestDTO;
 import com.example.bookmyshow2.model.City;
-import com.example.bookmyshow2.sevice.CityService;
+import com.example.bookmyshow2.service.CityService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
