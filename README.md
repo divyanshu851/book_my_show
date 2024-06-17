@@ -1,5 +1,5 @@
 
-## Book My Show - MVC Architecture Project
+## Book My Show
 
 This project demonstrates the implementation of an MVC (Model-View-Controller) architecture for a "Book My Show" application. Below is an overview of the key components and their interactions within this architecture.
 
